@@ -1,7 +1,7 @@
 # CEHv12
 🔥 CEHv12 Certificate documentation 📚
 
-## Modules
+#### Modules
 
 - [Module 01: Introduction to Ethical Hacking](module_01)
 - [Module 02: Foot Printing and Reconnaissance](module_02)
@@ -31,4 +31,4 @@
 
 - :star: Star the repository if you found these notes useful.
 
-- :raised_hands: Feel free to contribute by raising a [pull request](https://github.com/a3cipher/CEH/pulls) to this repository! A list of contributors will be maintained.
+©2023 by ThinPhuc
